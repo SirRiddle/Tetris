@@ -1,0 +1,7 @@
+﻿  Tetris-Main.cpp
+  Tetris.cpp
+c:\users\sirriddle\documents\visual studio 2015\projects\tetris-master\the final tetris\tetris.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\sirriddle\documents\visual studio 2015\projects\tetris-master\the final tetris\tetris.cpp(255): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  The Final Tetris.vcxproj -> C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\Tetris-master\Debug\The Final Tetris.exe
+  The Final Tetris.vcxproj -> C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\Tetris-master\Debug\The Final Tetris.pdb (Full PDB)
